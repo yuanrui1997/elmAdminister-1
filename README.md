@@ -1,2 +1,5 @@
 # elmAdminister
-基于Vue+elementUI的外卖后台管理系统
+## elmHome
+---------
+**首页**
+负责人-赵志强
