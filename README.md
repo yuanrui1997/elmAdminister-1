@@ -17,7 +17,7 @@ cd .. //退到上一个文件夹
 // 用vue-cli初始化项目
 vue init webpack eleAdminister
 
-// vue init的时候让输入项目名(Project name)的时候可能会报错,提示项目名中不能用大写字母,改成小写(eleadminister)就可以了
+// vue init后让输入项目名(Project name)的时候可能会报错,提示项目名中不能用大写字母,改成小写(eleadminister)就可以了
 
 ```
 
