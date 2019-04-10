@@ -1,5 +1,5 @@
 # 预览地址
-[饿了么后台管理](https://github.com/bailicangdu/vue2-manage)
+[饿了么后台管理](https://cangdu.org/manage)
 
 # elmAdminister
 
