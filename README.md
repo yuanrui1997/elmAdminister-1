@@ -1,3 +1,6 @@
+# 预览地址
+![饿了么后台管理](https://github.com/bailicangdu/vue2-manage)
+
 # elmAdminister
 
 > 基于Vue+elementUI的外卖后台管理系统
