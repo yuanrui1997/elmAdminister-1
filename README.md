@@ -1,41 +1,30 @@
-# 预览地址
-[饿了么后台管理](https://cangdu.org/manage)
+# elm
 
-# elmAdminister
+> A Vue.js project
 
-> 基于Vue+elementUI的外卖后台管理系统
+## Build Setup
 
+``` bash
+# install dependencies
+npm install
 
+# serve with hot reload at localhost:8080
+npm run dev
 
-## first step
+# build for production with minification
+npm run build
 
-```bash
-// 将项目从远程仓库克隆到本地
-git clone git@github.com:1810-fx/elmAdminister.git 
+# build for production and view the bundle analyzer report
+npm run build --report
 
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
 ```
 
-## second step
-
-```bash
-// 切换到你所在的分支
-git checkout yourbranch 
-```
-
-## third step
-
-```bash
-cd .. //退到上一个文件夹
-
-// 用vue-cli初始化项目
-vue init webpack eleAdminister
-
-// vue init后让输入项目名(Project name)的时候可能会报错,提示项目名中不能用大写字母,改成小写(eleadminister)就可以了
-
-```
-
-## last step
-
-现在,可以开始你的coding了
-是时候展现自己的风采了
-大展身手吧少年
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
